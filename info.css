@@ -1,0 +1,73 @@
+
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    background-color:rgb(177, 238, 238);
+    width:100%;
+}
+#image{
+    text-align:center;
+    width:150px;
+    border-radius:50%;  
+}
+a{
+    text-decoration:none;
+}
+.heading1{
+    background-color:rgb(245, 170, 145);
+    width:100%;
+}
+.first{
+   background-color:#e0f3ff;
+   width:100%;
+}
+.heading2{
+    background-color:aquamarine;
+    width:100%;
+
+}
+.second{
+   background-color:#e0f3ff; 
+   width:100%;  
+}
+.heading3{
+    background-color:plum;
+    width:100%;
+}
+.third{
+   background-color:#e0f3ff;
+   width:100%;
+}
+.heading4{
+    background-color:rgb(56, 244, 244);
+    width:100%;
+}
+.fourth{
+   background-color:#e0f3ff;
+   width:100%;
+}
+.heading5{
+    background-color:cornflowerblue;
+    width:100%;
+}
+.fifth{
+   background-color:#e0f3ff;
+   width:100%;
+}
+.heading6{
+    background-color:lightblue;
+    width:100%;
+}
+.sixth{
+   background-color:#e0f3ff;
+   width:100%;
+}
+.heading7{
+    background-color:rgb(249, 217, 179);
+    width:100%;
+}
+.seven{
+   background-color:#e0f3ff;
+   width:100%;
+}
